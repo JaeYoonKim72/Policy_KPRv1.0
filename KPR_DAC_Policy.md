@@ -1,17 +1,18 @@
-# Korean Pangenome Reference (KPR) Data Access Policy
+# KRIBB Korean Pangenome Project Data Access Policy
 
 *Version 1.0 — Effective 26 November 2026*
 
 ## Data Access Committee
 
 **Name:** KRIBB Genomic Medicine Research Center Data Access Committee  
-**EGA accession:** [EGAC50000001142](https://ega-archive.org/dacs/EGAC50000001142)  
+**EGA DAC accession:** [EGAC50000001142](https://ega-archive.org/dacs/EGAC50000001142)  
+**Policy accession:** EGAP50000001091  
 **Institution:** Genomic Medicine Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea  
 **Contact:** Jae-Yoon Kim (jaeyoonkim@kribb.re.kr)
 
 ## Scope
 
-This policy governs access to the controlled-access genomic resources generated for the Korean Pangenome Reference (KPR):
+This policy governs access to the controlled-access genomic resources of the KRIBB Korean Pangenome Project listed below, including the Korean Pangenome Reference (KPR):
 
 1. **Raw sequencing data** — long-read whole-genome sequencing on the PacBio Revio and Oxford Nanopore PromethION platforms, together with Hi-C data, from 19 Korean individuals (EGA study [EGAS50000002074](https://ega-archive.org/studies/EGAS50000002074); dataset [EGAD50000002977](https://ega-archive.org/datasets/EGAD50000002977)).
 2. **Genome assemblies** — polished genome assemblies from all 22 Korean individuals, including the three individuals sequenced using PacBio Sequel II in our previous study, being deposited under the same EGA study (EGAS50000002074; dataset accession pending). The 28 haplotype assemblies from 14 individuals retained after quality control were used to construct KPR.
@@ -30,7 +31,7 @@ Access is granted for any research purpose, consistent with Data Use Ontology co
 - the proposed use is described as a specific project with defined aims and duration (DUO:0000027);
 - the application identifies the researchers who will access the data and their institutional affiliations;
 - the proposed storage and analysis environment satisfies the security requirements of this policy;
-- the applicant's institution and named users sign the KPR Data Access Agreement (DAA).
+- the applicant's institution and named users sign the Data Access Agreement (DAA).
 
 Research areas expressly within scope include, but are not limited to: population and evolutionary genomics, including studies of ancestry and population history; construction and extension of pangenome and variant resources; development, benchmarking and validation of methods for assembly, graph construction, read mapping, variant calling and imputation; and health-related or biomedical research in which genomic variation is analysed.
 
@@ -52,7 +53,7 @@ Applications are submitted through the EGA data-access request system from the r
 
 An application must include a detailed research proposal describing the project, its aims and duration, the requested resources, the named individuals who will access the data and their institutional affiliations, the institution's ethics approval, and the secure environment in which the data will be held and analysed.
 
-Each individual requesting access to data through EGA must have an individual EGA account and submit an access request. The applicant's institution and named users must sign the KPR Data Access Agreement before access is granted. No second research proposal is required for graph delivery following approval covering the KOR assemblies.
+Each individual requesting access to data through EGA must have an individual EGA account and submit an access request. The applicant's institution and named users must sign the Data Access Agreement before access is granted. No second research proposal is required for graph delivery following approval covering the KOR assemblies.
 
 ## Review mechanism and timeline
 
@@ -122,11 +123,9 @@ Individual-level data — raw reads, genome assemblies, and pangenome graph file
 | DUO:0000027 | project specific restriction (PS) |
 | DUO:0000024 | publication moratorium (MOR; applicable only until the moratorium ends) |
 
-Following the end of the moratorium, DUO:0000024 will no longer apply.
-
 ## Related documents
 
-- KPR Data Access Agreement — controlled-access genomic resources: [Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf), [Markdown](KPR_Data_Access_Agreement.md)
+- Data Access Agreement — controlled-access genomic resources: [Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf), [Markdown](KPR_Data_Access_Agreement.md)
 - [Policy PDF (stable filename)](KPR_DAC_Policy_1.pdf)
 - [KPR application checklist](KPR_Application_Checklist.md)
 - [KPR analysis pipeline](https://github.com/JaeYoonKim72/KPR-pipeline)

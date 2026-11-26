@@ -1,20 +1,22 @@
-# Korean Pangenome Reference (KPR) — Data access
+# KRIBB Korean Pangenome Project Data Access
 
 **Data Access Committee (DAC):** KRIBB Genomic Medicine Research Center Data Access Committee ([EGAC50000001142](https://ega-archive.org/dacs/EGAC50000001142))  
 **Contact:** jaeyoonkim@kribb.re.kr
 
-## Revised access documentation
+## Access documents
 
-**Version 1.0 — Effective 26 November 2026.** The DAC has finalized the KPR Data Access Policy and application documents below. The corresponding EGA policy (EGAP50000001091) is being updated to reflect these terms. Access to the assembly dataset and the revised graph download procedure will become available once the assembly deposition and KGR website update are complete.
+Version 1.0 — Effective 26 November 2026.
+
+EGA policy accession: EGAP50000001091. The assembly dataset and revised graph download procedure will become available after the EGA deposition and KGR website update.
 
 | Document | Purpose |
 | --- | --- |
-| KPR Data Access Policy: [Markdown](KPR_DAC_Policy.md) · [PDF](KPR_DAC_Policy_1.pdf) | Eligibility, scope, decision mechanism, timelines and graph access |
+| Data Access Policy: [Markdown](KPR_DAC_Policy.md) · [PDF](KPR_DAC_Policy_1.pdf) | Eligibility, scope, decision mechanism, timelines and graph access |
 | Data Access Agreement (DAA): [Word](KPR_Data_Access_Agreement.docx) · [PDF](KPR_Data_Access_Agreement.pdf) · [Markdown](KPR_Data_Access_Agreement.md) | Editable Word form and printable PDF for the applicant institution and named users |
 | [Application checklist](KPR_Application_Checklist.md) | Required information, supporting documents and submission steps |
 | [Earlier DAC policy (archived PDF)](archive/KPR_DAC_Policy_1_original.pdf) | Original policy file retained for historical reference |
 
-The revised policy PDF retains the original filename and location (`KPR_DAC_Policy_1.pdf`) to preserve existing links. The original PDF is archived separately. The KPR DAA is a locally adapted template informed by the [EGA policy documentation](https://ega-archive.org/access/data-access-committee/policy-documentation/) and the EGA Example DAA template, not an EGA-issued or EGA-approved contract.
+The DAA is adapted from the [EGA Example DAA template](https://ega-archive.org/access/data-access-committee/policy-documentation/) and is issued by the KPR DAC, not EGA. The previous policy PDF is retained in the archive.
 
 ## Data and access
 
@@ -25,9 +27,9 @@ The revised policy PDF retains the original filename and location (`KPR_DAC_Poli
 | KPR and HPRC+KPR graphs | [KGR data download page](https://kgr.appex.kr/resource/data-download/) (controlled access; revised single-review process pending implementation) |
 | Analysis workflows and documentation | [KPR-pipeline](https://github.com/JaeYoonKim72/KPR-pipeline) (MIT License) |
 
-Previously generated PacBio Sequel II raw reads are available separately under [EGAS50000000375](https://ega-archive.org/studies/EGAS50000000375) and [EGAD50000000552](https://ega-archive.org/datasets/EGAD50000000552); access is governed by that dataset's own policy and DAC. The revised KPR policy covers the assemblies deposited under EGAS50000002074, not that earlier raw-read dataset. K-BDS access follows the conditions applicable to its own deposit.
+Previously generated PacBio Sequel II raw reads are available separately under [EGAS50000000375](https://ega-archive.org/studies/EGAS50000000375) and [EGAD50000000552](https://ega-archive.org/datasets/EGAD50000000552); access is governed by that dataset's own policy and DAC. This policy covers the assemblies deposited under EGAS50000002074, not that earlier raw-read dataset. K-BDS access follows the conditions applicable to its own deposit.
 
-## How to apply under the revised procedure
+## How to apply
 
 1. Review the policy and checklist and complete the DAA.
 2. Submit a Request Access application on the relevant EGA dataset page using each intended user's individual EGA account. Send supporting documents privately to the DAC contact.

@@ -1,8 +1,8 @@
-# KPR data access application checklist
+# KRIBB Korean Pangenome Project Data Access Application Checklist
 
 *Version 1.0 — Effective 26 November 2026. The assembly dataset accession and revised KGR graph download procedure are pending availability.*
 
-Review the [KPR Data Access Policy](KPR_DAC_Policy.md) and prepare the Data Access Agreement ([Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf)). All items below are required unless identified as conditional or optional. There is no scientific merit, novelty or research expertise assessment.
+Review the [Data Access Policy](KPR_DAC_Policy.md) and prepare the Data Access Agreement ([Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf)). All items below are required unless identified as conditional or optional. There is no scientific merit, novelty or research expertise assessment.
 
 ## Before submitting
 

@@ -1,8 +1,8 @@
-# KPR access-policy implementation checklist
+# KRIBB Korean Pangenome Project — Implementation Checklist
 
-Operational checklist for the DAC, not a new applicant requirement. Version 1.0 was finalized on 26 November 2026. Checked items are completed; unchecked items remain to be verified or implemented.
+DAC implementation checklist. Version 1.0, 26 November 2026.
 
-- [x] Finalize the KPR Data Access Policy, including its scope, eligibility criteria, five-member DAC composition, voting/conflict-of-interest arrangements, response targets and one-year access/renewal rules (26 November 2026).
+- [x] Finalize the KRIBB Korean Pangenome Project Data Access Policy, including its scope, eligibility criteria, five-member DAC composition, voting/conflict-of-interest arrangements, response targets and one-year access/renewal rules (26 November 2026).
 - [x] Finalize the KPR DAA template and application checklist (26 November 2026).
 - [ ] Confirm graph distribution rights and conditions, including the HPRC inputs, and ensure that both GFA files are covered by the revised approval/DAA.
 - [ ] Complete the FASTA submission under EGAS50000002074; insert the actual assembly EGAD throughout this repository and the manuscript/pipeline README. Verify the dataset page, DAC and policy linkage. Do not publish a fabricated accession.

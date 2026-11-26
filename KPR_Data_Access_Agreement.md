@@ -1,8 +1,8 @@
-# Korean Pangenome Reference (KPR) Data Access Agreement
+# KRIBB Korean Pangenome Project Data Access Agreement
 
 Controlled-access genomic resources | Version 1.0 - 26 November 2026
 
-This agreement is governed by the KPR Data Access Policy (https://github.com/JaeYoonKim72/Policy_KPRv1.0). It does not itself grant access. Complete all fields, attach the documents in the application checklist, and return privately to jaeyoonkim@kribb.re.kr. Do not post signed agreements or applicant information to GitHub.
+This agreement is governed by the KRIBB Korean Pangenome Project Data Access Policy (https://github.com/JaeYoonKim72/Policy_KPRv1.0). Complete all fields and submit the required documents to jaeyoonkim@kribb.re.kr. Do not post completed forms or applicant information on GitHub. This agreement does not itself grant access.
 
 ## A. Applicant and requested access
 
@@ -58,7 +58,7 @@ This agreement is governed by the KPR Data Access Policy (https://github.com/Jae
 
 ## C. Signatures
 
-By signing, the institution and each named user confirm that they have read the KPR Data Access Policy and accept the terms above. The PI is responsible for coordinating the project and communicating changes and incidents. Signatures alone do not constitute DAC approval.
+By signing, the institution and each named user confirm that they have read the Data Access Policy and accept the terms above. The PI is responsible for coordinating the project and communicating changes and incidents. Signatures alone do not constitute DAC approval.
 
 **Authorized institutional representative**
 
@@ -100,6 +100,6 @@ Signature: _______________________________________ Date: _______________________
 
 The DAC notifies the applicant of its decision and, after receipt of the signed agreement, grants the corresponding EGA permissions. Retain a copy of the completed agreement and decision for institutional records.
 
-Template reference: EGA Example DAA template and Policy Documentation (https://ega-archive.org/access/data-access-committee/policy-documentation/), with KPR-specific terms. This agreement is not an EGA-issued or EGA-approved contract.
+Adapted from the EGA Example DAA template (https://ega-archive.org/access/data-access-committee/policy-documentation/). This agreement is issued by the KPR DAC, not EGA.
 
 Download the agreement as [Word](KPR_Data_Access_Agreement.docx) or [PDF](KPR_Data_Access_Agreement.pdf).
