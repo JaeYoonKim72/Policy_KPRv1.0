@@ -9,10 +9,12 @@ The following English documents describe the proposed revised KPR access process
 
 | Document | Purpose |
 | --- | --- |
-| [KPR Data Access Policy](KPR_DAC_Policy.md) | Eligibility, scope, decision mechanism, timelines and graph access |
-| [Data Access Agreement (DAA)](KPR_Data_Access_Agreement.md) | Editable agreement template for the applicant institution and named users |
+| KPR Data Access Policy: [Markdown](KPR_DAC_Policy.md) · [PDF](KPR_DAC_Policy_1.pdf) | Eligibility, scope, decision mechanism, timelines and graph access |
+| Data Access Agreement (DAA): [Word](KPR_Data_Access_Agreement.docx) · [PDF](KPR_Data_Access_Agreement.pdf) · [Markdown](KPR_Data_Access_Agreement.md) | Editable Word form and printable PDF for the applicant institution and named users |
 | [Application checklist](KPR_Application_Checklist.md) | Required information, supporting documents and submission steps |
-| [Earlier DAC policy (PDF)](KPR_DAC_Policy_1.pdf) | Previous policy file retained for reference |
+| [Earlier DAC policy (archived PDF)](archive/KPR_DAC_Policy_1_original.pdf) | Original policy file retained for historical reference |
+
+The revised policy PDF retains the original filename and location (`KPR_DAC_Policy_1.pdf`) to preserve existing links. The original PDF is archived separately. The KPR DAA is a locally adapted template informed by the [EGA policy documentation](https://ega-archive.org/access/data-access-committee/policy-documentation/) and EU-STANDS4PM harmonised DAA v1.0, not an EGA-issued or EGA-approved contract.
 
 ## Data and access
 

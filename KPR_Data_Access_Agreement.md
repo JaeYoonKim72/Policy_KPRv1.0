@@ -8,7 +8,9 @@ This blank agreement is for institutional review and use after adoption of the r
 
 **Data provider:** Korea Research Institute of Bioscience and Biotechnology (KRIBB), through the Genomic Medicine Research Center Data Access Committee (DAC; EGAC50000001142), 125 Gwahak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea.
 
-**Applicant institution (legal name and address):** ______________________________________
+**Applicant institution (legal name and postal address):** ______________________________________
+
+**Institutional website and contact email:** ______________________________________
 
 **Principal investigator (PI), position and department:** _________________________________
 
@@ -27,7 +29,7 @@ This blank agreement is for institutional review and use after adoption of the r
 - [ ] KPR GFA (requires current assembly approval)
 - [ ] HPRC+KPR GFA (requires current assembly approval)
 
-**Approved-project description:** Attach the research proposal including aims, duration and requested resources.
+**Project description:** Attach the research proposal including aims, duration and requested resources.
 
 **Named data users:** List every person who will access or analyse controlled data, including the PI if applicable. Each EGA user must use an individual EGA account and submit a request for the relevant dataset(s). Attach additional rows if needed.
 
@@ -59,7 +61,7 @@ By signing, the institution and each named user confirm that they have read the 
 
 Name and title: _________________________________________________________________
 
-Institution: _____________________________________________________________________
+Institution and institutional email: __________________________________________________
 
 Signature: _______________________________________ Date: __________________________
 
@@ -89,8 +91,12 @@ Approval start and expiry dates: _______________________________________________
 
 Conditions or reason for decision, if applicable: _________________________________________
 
-DAC authorized representative: ____________________________________________________
+DAC authorized representative (name and position): __________________________________
 
 Signature: _______________________________________ Date: __________________________
 
 The DAC notifies the applicant of its decision and, after receipt of the signed agreement, grants the corresponding EGA permissions. Retain a copy of the completed agreement and decision for institutional records.
+
+Template reference: [EGA Policy Documentation](https://ega-archive.org/access/data-access-committee/policy-documentation/) and EU-STANDS4PM harmonised Data Access Agreement v1.0. This KPR-specific agreement is not an EGA-issued or EGA-approved contract.
+
+Download the agreement as [Word](KPR_Data_Access_Agreement.docx) or [PDF](KPR_Data_Access_Agreement.pdf).

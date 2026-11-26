@@ -2,7 +2,7 @@
 
 *Proposed revised procedure — 26 November 2026; effective following institutional confirmation and alignment of EGA and KGR. Consult the [currently registered EGA policy](https://ega-archive.org/datasets/EGAD50000002977) in the meantime.*
 
-Review the [KPR Data Access Policy](KPR_DAC_Policy.md) and prepare the [Data Access Agreement](KPR_Data_Access_Agreement.md). All items below are required unless identified as conditional or optional. There is no scientific merit, novelty or research expertise assessment.
+Review the [KPR Data Access Policy](KPR_DAC_Policy.md) and prepare the Data Access Agreement ([Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf)). All items below are required unless identified as conditional or optional. There is no scientific merit, novelty or research expertise assessment.
 
 ## Before submitting
 
@@ -13,7 +13,7 @@ Review the [KPR Data Access Policy](KPR_DAC_Policy.md) and prepare the [Data Acc
 ## Supporting documents
 
 - [ ] Detailed research proposal: project title, objectives, planned use, duration, requested datasets/resources, and whether any derived individual-level resource will be distributed.
-- [ ] Applicant institution and principal investigator contact details.
+- [ ] Applicant institution (legal name, postal address, website and contact email) and principal investigator contact details.
 - [ ] Named users and institutional affiliations, EGA account emails and project roles.
 - [ ] Documentation of institutional ethics approval for the proposed work, with reference number, issuing body and validity.
 - [ ] Secure environment description: storage and analysis locations, access controls and authentication, secure transfer/storage, backup, incident response and data retention/deletion.

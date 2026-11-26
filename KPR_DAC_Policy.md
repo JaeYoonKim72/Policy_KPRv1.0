@@ -48,7 +48,7 @@ Incorporation of these data into broader pangenome or variant resources is permi
 
 ## How to apply
 
-Applications are submitted through the EGA data-access request system from the relevant dataset page. The [Data Access Agreement](KPR_Data_Access_Agreement.md) and [application checklist](KPR_Application_Checklist.md) are published in this repository. Supporting documents are submitted privately to the DAC contact by email.
+Applications are submitted through the EGA data-access request system from the relevant dataset page. The Data Access Agreement ([Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf)) and [application checklist](KPR_Application_Checklist.md) are published in this repository. Supporting documents are submitted privately to the DAC contact by email.
 
 An application must include a detailed research proposal describing the project, its aims and duration, the requested resources, the named individuals who will access the data and their institutional affiliations, the institution's ethics approval, and the secure environment in which the data will be held and analysed.
 
@@ -126,7 +126,8 @@ Following the end of the moratorium, DUO:0000024 will no longer apply.
 
 ## Related documents
 
-- [KPR Data Access Agreement — controlled-access genomic resources](KPR_Data_Access_Agreement.md)
+- KPR Data Access Agreement — controlled-access genomic resources: [Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf), [Markdown](KPR_Data_Access_Agreement.md)
+- [Policy PDF (stable filename)](KPR_DAC_Policy_1.pdf)
 - [KPR application checklist](KPR_Application_Checklist.md)
 - [KPR analysis pipeline](https://github.com/JaeYoonKim72/KPR-pipeline)
 - [EGA policy documentation](https://ega-archive.org/access/data-access-committee/policy-documentation/)
