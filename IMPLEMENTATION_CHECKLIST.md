@@ -10,7 +10,7 @@ DAC implementation checklist. Version 1.0, 26 November 2026.
 - [ ] Implement the revised KGR download form and instructions: current assembly approval verification, name/affiliation/EGA email, optional internal DAC reference, no new research-purpose field, two-working-day target, seven-day maximum link validity, expiration/revocation handling, technical contact. Test valid, expired and revoked approvals, link forwarding risk and the link renewal process.
 - [ ] Confirm the original KPR data release date and record the earlier of the first publication date of the primary KPR study and the 12-month deadline as the moratorium end date. Do not restart the embargo for later deposits.
 - [ ] At the moratorium end date, manually update the relevant EGA Policy object(s) and remove DUO:0000024; update the public policy/DAA/checklist as applicable, and notify existing approved users that no further publication permission is required. Keep the source-study and relevant accession citation obligations.
-- [x] Publish the finalized Version 1.0 documents with the effective date of 26 November 2026, retaining the stable policy PDF filename and archived original at `archive/KPR_DAC_Policy_1_original.pdf`.
+- [x] Publish the finalized Version 1.0 documents with the effective date of 26 November 2026, retaining the stable policy PDF filename.
 - [x] Confirm that EGA policy EGAP50000001091 links to the stable GitHub PDF URL (26 November 2026).
 - [ ] After updating EGAP50000001091 and completing the KGR/assembly workflow, verify public availability and update the outstanding status notices in README and the associated documents.
 - [ ] Respond to the outstanding journal data-curator access request and verify that access works.

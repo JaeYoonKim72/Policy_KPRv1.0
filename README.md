@@ -14,9 +14,8 @@ EGA policy accession: EGAP50000001091. The assembly dataset and revised graph do
 | Data Access Policy: [Markdown](KPR_DAC_Policy.md) · [PDF](KPR_DAC_Policy_1.pdf) | Eligibility, scope, decision mechanism, timelines and graph access |
 | Data Access Agreement (DAA): [Word](KPR_Data_Access_Agreement.docx) · [PDF](KPR_Data_Access_Agreement.pdf) · [Markdown](KPR_Data_Access_Agreement.md) | Editable Word form and printable PDF for the applicant institution and named users |
 | [Application checklist](KPR_Application_Checklist.md) | Required information, supporting documents and submission steps |
-| [Earlier DAC policy (archived PDF)](archive/KPR_DAC_Policy_1_original.pdf) | Original policy file retained for historical reference |
 
-The DAA is adapted from the [EGA Example DAA template](https://ega-archive.org/access/data-access-committee/policy-documentation/) and is issued by the KPR DAC, not EGA. The previous policy PDF is retained in the archive.
+The DAA is adapted from the [EGA Example DAA template](https://ega-archive.org/access/data-access-committee/policy-documentation/) and is issued by the KPR DAC, not EGA.
 
 ## Data and access
 
