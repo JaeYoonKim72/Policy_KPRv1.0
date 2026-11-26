@@ -14,9 +14,9 @@ Review the [KPR Data Access Policy](KPR_DAC_Policy.md) and prepare the Data Acce
 
 - [ ] Detailed research proposal: project title, objectives, planned use, duration, requested datasets/resources, and whether any derived individual-level resource will be distributed.
 - [ ] Applicant institution (legal name, postal address, website and contact email) and principal investigator contact details.
-- [ ] Named users and institutional affiliations, EGA account emails and project roles.
+- [ ] Named users and institutional affiliations, email addresses (EGA account emails where applicable), project roles and identification of users who need to download data from EGA.
 - [ ] Documentation of institutional ethics approval for the proposed work, with reference number, issuing body and validity.
-- [ ] Secure environment description: storage and analysis locations, access controls and authentication, secure transfer/storage, backup, incident response and data retention/deletion.
+- [ ] Secure environment description: storage and analysis locations, access controls and authentication, secure transfer/storage (including encryption of portable storage), backup, incident response and data retention/deletion.
 - [ ] Completed DAA signed by an authorized representative of the applicant institution, the principal investigator and all named users.
 
 Send supporting materials privately to **jaeyoonkim@kribb.re.kr** with the EGA dataset accession(s) and your project title. Do not upload completed forms, personal details or approval documentation to public GitHub issues or pull requests. The blank DAA and this checklist are publicly available so no separate enquiry is needed to obtain the forms.
