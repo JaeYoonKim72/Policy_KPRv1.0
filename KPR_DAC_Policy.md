@@ -1,6 +1,6 @@
 # Korean Pangenome Reference (KPR) Data Access Policy
 
-*Proposed revision, 26 November 2026. Subject to KRIBB/DAC confirmation and alignment with the registered EGA policy and KGR download procedure. The currently applicable EGA terms remain in force until the revised policy is adopted.*
+*Version 1.0 — Effective 26 November 2026*
 
 ## Data Access Committee
 
@@ -77,7 +77,7 @@ An applicant may request reconsideration of a refusal by writing to the DAC cont
 
 ## Access to pangenome graph files
 
-Approved applicants whose current DAC approval covers the KOR genome assemblies may obtain the KPR and HPRC+KPR GFA files from the [KGR data download page](https://kgr.appex.kr/resource/data-download/).
+Approved applicants whose current DAC approval covers the KOR genome assemblies may obtain the KPR and HPRC+KPR GFA files from the [KGR data download page](https://kgr.appex.kr/resource/data-download/). This procedure will apply once the assembly dataset and revised KGR download workflow are available.
 
 The applicant submits a short form giving their name, institutional affiliation, the email address associated with their EGA account and DAC approval, and the requested graph file. A DAC approval reference may optionally be provided, if available. No separate EGA-generated approval number is required. Following verification of the applicant's current access permissions, a download link is sent to the approved email address within two working days.
 

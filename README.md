@@ -5,7 +5,7 @@
 
 ## Revised access documentation
 
-The following English documents describe the proposed revised KPR access process. They are published for transparency and institutional review. The revised terms take effect after KRIBB/DAC confirmation and alignment of the EGA policy and KGR download procedure. Until then, the applicable registered EGA terms remain in force.
+**Version 1.0 — Effective 26 November 2026.** The DAC has finalized the KPR Data Access Policy and application documents below. The corresponding EGA policy (EGAP50000001091) is being updated to reflect these terms. Access to the assembly dataset and the revised graph download procedure will become available once the assembly deposition and KGR website update are complete.
 
 | Document | Purpose |
 | --- | --- |

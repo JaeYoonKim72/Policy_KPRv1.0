@@ -1,6 +1,6 @@
 # KPR data access application checklist
 
-*Proposed revised procedure — 26 November 2026; effective following institutional confirmation and alignment of EGA and KGR. Consult the [currently registered EGA policy](https://ega-archive.org/datasets/EGAD50000002977) in the meantime.*
+*Version 1.0 — Effective 26 November 2026. The assembly dataset accession and revised KGR graph download procedure are pending availability.*
 
 Review the [KPR Data Access Policy](KPR_DAC_Policy.md) and prepare the Data Access Agreement ([Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf)). All items below are required unless identified as conditional or optional. There is no scientific merit, novelty or research expertise assessment.
 
