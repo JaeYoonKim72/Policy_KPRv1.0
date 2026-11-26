@@ -11,7 +11,7 @@ EGA policy accession: EGAP50000001091. Access requests are accepted for resource
 
 | Document | Purpose |
 | --- | --- |
-| Data Access Policy: [Markdown](KPR_DAC_Policy.md) · [PDF](KPR_DAC_Policy.pdf) | Eligibility, scope, decision mechanism, timelines and graph access |
+| Data Access Policy: [Markdown](KPR_DAC_Policy.md) · [PDF](KPR_DAC_Policy_1.pdf) | Eligibility, scope, decision mechanism, timelines and graph access |
 | Data Access Agreement (DAA): [Word](KPR_Data_Access_Agreement.docx) · [PDF](KPR_Data_Access_Agreement.pdf) · [Markdown](KPR_Data_Access_Agreement.md) | Editable Word form and printable PDF for the applicant institution and named users |
 | [Application checklist](KPR_Application_Checklist.md) | Required information, supporting documents and submission steps |
 

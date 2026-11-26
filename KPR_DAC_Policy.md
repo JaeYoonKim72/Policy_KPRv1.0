@@ -126,7 +126,7 @@ Individual-level data — raw reads, genome assemblies, and pangenome graph file
 ## Related documents
 
 - Data Access Agreement — controlled-access genomic resources: [Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf), [Markdown](KPR_Data_Access_Agreement.md)
-- [Policy PDF](KPR_DAC_Policy.pdf)
+- [Policy PDF](KPR_DAC_Policy_1.pdf)
 - [KPR application checklist](KPR_Application_Checklist.md)
 - [KPR analysis pipeline](https://github.com/JaeYoonKim72/KPR-pipeline)
 - [EGA policy documentation](https://ega-archive.org/access/data-access-committee/policy-documentation/)
