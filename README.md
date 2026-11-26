@@ -7,11 +7,11 @@
 
 Version 1.0 — Effective 26 November 2026.
 
-EGA policy accession: EGAP50000001091. The assembly dataset and revised graph download procedure will become available after the EGA deposition and KGR website update.
+EGA policy accession: EGAP50000001091. Access requests are accepted for resources available through EGA and KGR. Consult the linked study and data download pages for current availability.
 
 | Document | Purpose |
 | --- | --- |
-| Data Access Policy: [Markdown](KPR_DAC_Policy.md) · [PDF](KPR_DAC_Policy_1.pdf) | Eligibility, scope, decision mechanism, timelines and graph access |
+| Data Access Policy: [Markdown](KPR_DAC_Policy.md) · [PDF](KPR_DAC_Policy.pdf) | Eligibility, scope, decision mechanism, timelines and graph access |
 | Data Access Agreement (DAA): [Word](KPR_Data_Access_Agreement.docx) · [PDF](KPR_Data_Access_Agreement.pdf) · [Markdown](KPR_Data_Access_Agreement.md) | Editable Word form and printable PDF for the applicant institution and named users |
 | [Application checklist](KPR_Application_Checklist.md) | Required information, supporting documents and submission steps |
 
@@ -22,18 +22,18 @@ The DAA is adapted from the [EGA Example DAA template](https://ega-archive.org/a
 | Resource | Location |
 | --- | --- |
 | Newly generated long-read and Hi-C reads (19 individuals) | [EGAS50000002074](https://ega-archive.org/studies/EGAS50000002074), [EGAD50000002977](https://ega-archive.org/datasets/EGAD50000002977) |
-| Polished genome assemblies (22 individuals) | Same EGA study; deposition in progress, assembly dataset accession pending |
-| KPR and HPRC+KPR graphs | [KGR data download page](https://kgr.appex.kr/resource/data-download/) (controlled access; revised single-review process pending implementation) |
+| Polished genome assemblies (22 individuals) | [EGAS50000002074](https://ega-archive.org/studies/EGAS50000002074) (see the study record for the assembly dataset) |
+| KPR and HPRC+KPR graphs | [KGR data download page](https://kgr.appex.kr/resource/data-download/) (controlled access; verification of current assembly approval) |
 | Analysis workflows and documentation | [KPR-pipeline](https://github.com/JaeYoonKim72/KPR-pipeline) (MIT License) |
 
-Previously generated PacBio Sequel II raw reads are available separately under [EGAS50000000375](https://ega-archive.org/studies/EGAS50000000375) and [EGAD50000000552](https://ega-archive.org/datasets/EGAD50000000552); access is governed by that dataset's own policy and DAC. This policy covers the assemblies deposited under EGAS50000002074, not that earlier raw-read dataset. K-BDS access follows the conditions applicable to its own deposit.
+Previously generated PacBio Sequel II raw reads are available separately under [EGAS50000000375](https://ega-archive.org/studies/EGAS50000000375) and [EGAD50000000552](https://ega-archive.org/datasets/EGAD50000000552); access is governed by that dataset's own policy and DAC. This policy covers the assemblies associated with EGAS50000002074, not that earlier raw-read dataset. K-BDS access follows the conditions applicable to its own deposit.
 
 ## How to apply
 
 1. Review the policy and checklist and complete the DAA.
 2. Submit a Request Access application on the relevant EGA dataset page using each intended user's individual EGA account. Send supporting documents privately to the DAC contact.
 3. After the DAC decision and signed agreement, authorized users receive access to the approved EGA dataset(s).
-4. Users with current approval covering the KOR assemblies may request GFA files from the KGR download page without an additional research review, once the revised website procedure is implemented.
+4. Users with current approval covering the KOR assemblies may request GFA files from the KGR download page without an additional research review for files available under the policy.
 
 Do not submit completed agreements, personal details, ethics approval records or other confidential application materials through public GitHub issues or pull requests.
 

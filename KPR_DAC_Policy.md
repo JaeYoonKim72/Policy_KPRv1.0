@@ -15,7 +15,7 @@
 This policy governs access to the controlled-access genomic resources of the KRIBB Korean Pangenome Project listed below, including the Korean Pangenome Reference (KPR):
 
 1. **Raw sequencing data** — long-read whole-genome sequencing on the PacBio Revio and Oxford Nanopore PromethION platforms, together with Hi-C data, from 19 Korean individuals (EGA study [EGAS50000002074](https://ega-archive.org/studies/EGAS50000002074); dataset [EGAD50000002977](https://ega-archive.org/datasets/EGAD50000002977)).
-2. **Genome assemblies** — polished genome assemblies from all 22 Korean individuals, including the three individuals sequenced using PacBio Sequel II in our previous study, being deposited under the same EGA study (EGAS50000002074; dataset accession pending). The 28 haplotype assemblies from 14 individuals retained after quality control were used to construct KPR.
+2. **Genome assemblies** — polished genome assemblies from all 22 Korean individuals, including the three individuals sequenced using PacBio Sequel II in our previous study (EGA study [EGAS50000002074](https://ega-archive.org/studies/EGAS50000002074); see the study record for the assembly dataset). The 28 haplotype assemblies from 14 individuals retained after quality control were used to construct KPR.
 3. **Pangenome graph files** — the KPR and HPRC+KPR graphs in GFA format, distributed through the [Korean Genome Research (KGR) project site](https://kgr.appex.kr/resource/data-download/). These graphs contain individual-level haplotype sequences and are therefore governed by the same access terms as the KOR genome assemblies from which they were constructed. The graphs can be reconstructed from the deposited KOR assemblies and the corresponding reference resources using the [publicly released construction pipeline](https://github.com/JaeYoonKim72/KPR-pipeline).
 
 Participants gave written informed consent, and the work was approved by the Institutional Review Boards of Chungnam National University Hospital (CNUH 2019-06-034, including the previously sequenced three individuals), the Korea Research Institute of Bioscience and Biotechnology (KRIBB P01-202503-02-002), and Chungbuk National University Hospital (CBNUH 2025-07-011).
@@ -78,7 +78,7 @@ An applicant may request reconsideration of a refusal by writing to the DAC cont
 
 ## Access to pangenome graph files
 
-Approved applicants whose current DAC approval covers the KOR genome assemblies may obtain the KPR and HPRC+KPR GFA files from the [KGR data download page](https://kgr.appex.kr/resource/data-download/). This procedure will apply once the assembly dataset and revised KGR download workflow are available.
+Approved applicants whose current DAC approval covers the KOR genome assemblies may obtain the KPR and HPRC+KPR GFA files from the [KGR data download page](https://kgr.appex.kr/resource/data-download/). Requests are accepted for resources available through EGA and KGR.
 
 The applicant submits a short form giving their name, institutional affiliation, the email address associated with their EGA account and DAC approval, and the requested graph file. A DAC approval reference may optionally be provided, if available. No separate EGA-generated approval number is required. Following verification of the applicant's current access permissions, a download link is sent to the approved email address within two working days.
 
@@ -126,7 +126,7 @@ Individual-level data — raw reads, genome assemblies, and pangenome graph file
 ## Related documents
 
 - Data Access Agreement — controlled-access genomic resources: [Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf), [Markdown](KPR_Data_Access_Agreement.md)
-- [Policy PDF (stable filename)](KPR_DAC_Policy_1.pdf)
+- [Policy PDF](KPR_DAC_Policy.pdf)
 - [KPR application checklist](KPR_Application_Checklist.md)
 - [KPR analysis pipeline](https://github.com/JaeYoonKim72/KPR-pipeline)
 - [EGA policy documentation](https://ega-archive.org/access/data-access-committee/policy-documentation/)
