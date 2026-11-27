@@ -2,14 +2,14 @@
 
 *Version 1.0 — Effective 26 November 2026.*
 
-Consult the EGA study record and KGR download page for currently available resources.
+The newly generated raw sequencing data and polished genome assemblies are available under EGA dataset [EGAD50000002977](https://ega-archive.org/datasets/EGAD50000002977). The KPR and HPRC+KPR GFA files are available under controlled access through the [KGR download page](https://kgr.appex.kr/resource/data-download/).
 
 Review the [Data Access Policy](KPR_DAC_Policy.md) and prepare the Data Access Agreement ([Word](KPR_Data_Access_Agreement.docx), [PDF](KPR_Data_Access_Agreement.pdf)). All items below are required unless identified as conditional or optional. There is no scientific merit, novelty or research expertise assessment.
 
 ## Before submitting
 
 - [ ] Confirm a defined, non-commercial project at a not-for-profit research institution and compatibility with participant consent, ethics and the policy.
-- [ ] Select the resource(s) required: raw reads (EGAD50000002977), assemblies ([EGAS50000002074](https://ega-archive.org/studies/EGAS50000002074); see the study record for the assembly dataset), and optionally KPR / HPRC+KPR graphs. For GFA access, request approval covering the KOR assemblies; downloading FASTA is not required.
+- [ ] Select the resource(s) required: raw reads (EGAD50000002977), assemblies (the same dataset, EGAD50000002977; study [EGAS50000002074](https://ega-archive.org/studies/EGAS50000002074)), and optionally KPR / HPRC+KPR graphs. For GFA access, request approval covering the KOR assemblies; downloading FASTA is not required.
 - [ ] Each intended EGA user has an individual EGA account. Submit Request Access for the relevant dataset(s) from the EGA dataset page.
 
 ## Supporting documents
@@ -36,7 +36,7 @@ Working days are working days in the Republic of Korea. If additional informatio
 
 ## Graph download after approval
 
-1. Go to the [KGR data download page](https://kgr.appex.kr/resource/data-download/) for graph files available under the policy.
+1. Go to the [KGR data download page](https://kgr.appex.kr/resource/data-download/) to request the KPR or HPRC+KPR GFA file.
 2. Select the GFA file and enter your name, affiliation and EGA-registered email associated with the current assembly approval; provide a DAC approval reference only if one has been assigned (optional).
 3. Confirm compliance with the DAA. No new research proposal or additional scientific review is required.
 4. The DAC/KGR staff verify current access permissions and send the download link to the approved email within two working days. The link is valid for up to seven days, or until approval expires or is revoked, whichever occurs earlier. It may be re-requested during the approved period.
